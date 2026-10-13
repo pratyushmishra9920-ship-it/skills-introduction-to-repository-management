@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py @pratyushmishra9920-ship-it
+/src/backend/database.py @pratyushmishra9920-ship-it
+/src/backend/routers/auth.py @pratyushmishra9920-ship-it
+
+# Frontend files
+/src/static/ @pratyushmishra9920-ship-it
